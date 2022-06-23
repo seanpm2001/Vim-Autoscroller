@@ -1,15 +1,13 @@
 
 ***
 
-# <projectName>
+# Vim Autoscroller
 
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
+![vim-icon-300x300.png This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](vim-icon-300x300.png)
 
 # By:
 
-![SNU Logo: This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](/SNU_blue_and_gold_legacy_icon.png)
-
-## [Seanpm2001](https://github.com/seanpm2001/) / [SNU Development](https://github.com/snu-development/) / [<organizationName>](<organizationName>), Et; Al.
+## [`@Seanpm2001`](https://github.com/seanpm2001/) / [`@Vim-AutoScroller`](https://github.com/Vim-Autoscroller/) / [`@Seanpm2001-Vim`](https://github.com/seanpm2001-Vim/), Et; Al.
 
 ### Top
 
@@ -40,13 +38,13 @@ Translations are done with Google Translate due to limited or no support for the
 
 [00.0 - Top](#Top)
 
-> [00.1 - Title](#<projectName>)
+> [00.1 - Title](#Vim-Autoscroller)
 
 > [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
 
 > [00.3 - Index](#Index)
 
-[01.0 - Description](#RepositoryName)
+[01.0 - Description](#Vim-Autoscroller)
 
 [02.0 - About](#About)
 
@@ -92,20 +90,20 @@ Translations are done with Google Translate due to limited or no support for the
 
 ***
 
-# <repoName>
-<repo_description>
+# Vim-Autoscroller
+Automatically scroll through documents in Vim.
 
 ***
 
 ## About
 
-See above. <extendedRepoDescription>
+See above. Vim Autoscroller is a Vim extension that allows for automatic scrolling of files, with customizations to adjust the speed, rate, pattern, duration, and more.
 
 ***
 
 ## Wiki
 
-[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/<repoName>/wiki/)
+[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/Vim-Autoscroller/wiki/)
 
 If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
 
@@ -113,15 +111,17 @@ If the project has been forked, the Wiki was likely removed. Luckily, I include 
 
 ## History
 
-Write about this projects history here.
+This project has a short history so far.
 
 ### Pre-history
 
-No pre-history to show for this project.
+This project was officially started on 2022, February 10th at 5:59 pm PST when the repository for the project was created. Development was done on day 1 to configure the project, and attempt to start the extension. I unfortunately used the wrong template during configuration, but plan to correct it later on.
 
 ### Alpha history
 
-No Alpha history to show for this project.
+On 2022, February 26th, the project was updated with 2 commits, changing the project license from the GNU General Public License V3 to the Vim License.
+
+The project went on a long hiatus. On 2022, June 10th, a GitHub organization was created for the project. Additionally, on 2022, Thursday, June 23rd, the project was updated and modernized a bit. The README.md file was also updated.
 
 ### Beta history
 
@@ -150,8 +150,6 @@ View the credits file for this project and see the people who got together to ma
 ## Installation
 
 View the installation instructions file for this project [here](/INSTALL)
-
-Requirements: Read the instructions for more info, and get the latest up-to-date instructions [here](https://gist.github.com/seanpm2001/745564a46186888e829fdeb9cda584de)
 
 ***
 
@@ -195,7 +193,7 @@ Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign
 
 Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](/CONTRIBUTING.md) file.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of Yr, DoW, Month, DoM, at ##:## a/pm)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - 25 commits (As of 2022, Thursday, June 23rd at 4:07 pm PST)
 
 > * 2. No other contributers.
 
@@ -265,9 +263,9 @@ I archive my own issues. Your issue won't be archived unless you request it to b
 
 Here are some other resources for this project:
 
-[Project language file A](PROJECT_LANG_1.<fileExtensionForProgrammingLanguage>)
+[Project language file A (Vim Script)](PROJECT_LANG_1.vim)
 
-[Join the discussion on GitHub](https://github.com/seanpm2001/<repoName>/discussions/)
+[Join the discussion on GitHub](https://github.com/seanpm2001/Vim-Autoscroller/discussions/)
 
 No other resources at the moment.
 
@@ -283,11 +281,11 @@ Contributing is allowed for this project, as long as you follow the rules of the
 
 ## About README
 
-**File type:** `Markdown document (*.md)`
+**File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `0.1.6 (Monday, August 23rd 2021 at 5:29 pm)`
+**File version:** `1 (2022, Thursday, June 23rd at 4:07 pm PST)`
 
-**Line count (including blank lines and compiler line):** `0,401`
+**Line count (including blank lines and compiler line):** `0,419`
 
 ***
 
@@ -373,11 +371,31 @@ Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
 
 > * No other changes in version 0.1
 
-Version 1 (Coming soon)
+Version 1 (2022, Thursday, June 23rd at 4:07 pm PST)
 
 > Changes:
 
-> * Coming soon
+> * Updated the file
+
+> * Corrected the logo
+
+> * Updated the title section
+
+> * Updated the repository about section
+
+> * Updated the about section
+
+> * Updated the project history section
+
+> * Updated the installation section
+
+> * Updated the contributors section
+
+> * Updated the resources section
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 1
 
